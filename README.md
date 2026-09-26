@@ -4,7 +4,7 @@
 
 <br>
 
-# JACKSONTECH / GALAXIAN
+# JACKSONTECH
 
 **Systems · ROMs · Linux · Experiments**
 
