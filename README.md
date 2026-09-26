@@ -20,7 +20,7 @@
 
 > Welcome to the **JacksonTech** sector.
 >
-> I build custom operating-system projects, Android ROM work, Linux distributions, system tooling, and the weird stuff in between.
+> I build custom operating-system projects, Linux distributions, system tooling, and Android work — with older projects kept here as history.
 
 **Current signal:** building **CathodeOS** — Android 16, x86_64, PC-focused, AOSP-based, with microG.
 
@@ -74,9 +74,9 @@ OPEN SOURCE
 
 ### GALAXIAN
 
-**Android device work.**
+**ARCHIVED PROJECT.**
 
-ROM development, device bring-up, recovery work, and experimentation across the Galaxian project.
+An older Android ROM/device project that is no longer maintained or actively developed.
 
 <a href="https://github.com/Jackson4Rocks/crDroid-Galaxian">→ crDroid-Galaxian</a>
 
@@ -85,9 +85,9 @@ ROM development, device bring-up, recovery work, and experimentation across the 
 
 ### TAHOE
 
-**Recovery & low-level work.**
+**CLOSED PROJECT.**
 
-Recovery-oriented development and Android system experimentation.
+A previous recovery/low-level development project that has been discontinued.
 
 <a href="https://github.com/Jackson4Rocks/tahoe-recovery">→ tahoe-recovery</a>
 
@@ -145,8 +145,8 @@ I like projects where the layers are visible, the tooling is reproducible, and t
 |---|---|---|
 | **CathodeOS** | Android 16 → x86_64 PC OS | BRING-UP |
 | **Calypso Linux** | Arch-based desktop distribution | ACTIVE |
-| **Galaxian** | Android ROM / device work | EXPERIMENTAL |
-| **Tahoe** | Recovery / low-level tooling | ACTIVE DEV |
+| **Galaxian** | Archived Android ROM project | ARCHIVED |
+| **Tahoe** | Closed recovery project | CLOSED |
 
 ---
 
