@@ -61,7 +61,7 @@ An Arch-based Linux distribution focused on a polished desktop workflow.
 ### 📺 PublivoreTube
 **YouTube, reimagined for your TV**
 
-An open-source Android TV client with remote-first navigation, a TV-focused UI, YouTube metadata, and a native playback layer under development.
+An open-source Android TV client with remote-first navigation, a TV-focused UI, YouTube metadata, and a native playback layer under development. It will also include adblockers in future builds.
 
 → [GitHub](https://github.com/Jackson4Rocks/PublivoreTube)
 
