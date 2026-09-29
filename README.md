@@ -28,7 +28,7 @@ LEON SONY
 
 ## ◈ About
 
-I'm **Leon Sony** — I build things around Linux, Android, ROM development, system software, and desktop distributions.
+Hi! I'm **Leon :)** — I build things around Linux, Android, ROM development, system software, and desktop distributions.
 
 I like projects where I can go from **source → build → boot → test → tune**, whether that means bringing up an Android system, shaping a Linux desktop, or building an entirely new app for a TV.
 
