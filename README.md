@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Leon!
+# 👋 Hi, I'm Leon Sony!
 
 **🐧 Linux · 🤖 Android · ⚙️ Systems · 🔓 Open Source**
 
