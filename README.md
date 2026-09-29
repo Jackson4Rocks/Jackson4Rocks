@@ -1,32 +1,42 @@
 <div align="center">
 
-<img src="./assets/galaxian-banner.svg" alt="JacksonTech Galaxian banner" width="100%">
+<pre>
+ _     _____ ___  _   _
+| |   | ____/ _ \\| \\ | |
+| |   |  _|| | | |  \\| |
+| |___| |__| |_| | |\\  |
+|_____|_____\\___/|_| \\_|
 
-<br>
+ _____  ___  _   _ __   __
+/ ___| / _ \\| \\ | |  \\ / /
+\\___ \\| | | |  \\| | |\\/ /
+ ___) | |_| | |\\  | |  | |
+|____/ \\___/|_| \\_|_|  |_|
 
-# JACKSONTECH
+LEON SONY
+</pre>
 
-**Systems · ROMs · Linux · Experiments**
+### Linux • Android • Systems • Open Source
 
-[![GitHub](https://img.shields.io/badge/Jackson4Rocks-05060b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
-[![CathodeOS](https://img.shields.io/badge/CathodeOS-795CFF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Jackson4Rocks/CathodeROM)
-[![Calypso Linux](https://img.shields.io/badge/Calypso_Linux-6EDCFF?style=for-the-badge&logo=linux&logoColor=081018)](https://github.com/Jackson4Rocks/calypso-linux)
+[![GitHub](https://img.shields.io/badge/GitHub-Jackson4Rocks-111318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
+[![Linux](https://img.shields.io/badge/Linux-Developer-4B4B52?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org/)
+[![Android](https://img.shields.io/badge/Android-Systems-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://source.android.com/)
 
 </div>
 
 ---
 
-### ◈ SIGNAL
+## ◈ About
 
-> Welcome to the **JacksonTech** sector.
->
-> I build custom operating-system projects, Linux distributions, system tooling, and Android work — with older projects kept here as history.
+I'm **Leon Sony** — I build things around Linux, Android, ROM development, system software, and desktop distributions.
 
-**Current signal:** building **CathodeOS** — Android 16, x86_64, PC-focused, AOSP-based, with microG.
+I like projects where I can go from **source → build → boot → test → tune**, whether that means bringing up an Android system, shaping a Linux desktop, or building an entirely new app for a TV.
+
+> **Build. Break. Improve. Repeat.**
 
 ---
 
-## ◉ ACTIVE SYSTEMS
+## ◉ What I'm building
 
 <table>
 <tr>
@@ -36,17 +46,9 @@
 
 **Android for PCs.**
 
-AOSP-based Android 16 bring-up for generic x86_64 laptops and desktops.
+AOSP-based Android 16 work targeting generic x86_64 PCs.
 
-<pre>
-ANDROID 16
-x86_64
-UEFI / PC
-microG
-CATHODEOS UI
-</pre>
-
-<a href="https://github.com/Jackson4Rocks/CathodeROM">→ Source: CathodeROM</a>
+<a href="https://github.com/Jackson4Rocks/CathodeROM">→ CathodeROM</a>
 
 </td>
 <td width="50%" valign="top">
@@ -55,41 +57,31 @@ CATHODEOS UI
 
 **Linux with a pulse.**
 
-An Arch-based desktop distribution built around a focused, polished workflow.
+An Arch-based desktop distribution with KDE Plasma and Hyprland.
 
-<pre>
-ARCH BASE
-KDE PLASMA
-HYPRLAND
-CUSTOM UX
-OPEN SOURCE
-</pre>
-
-<a href="https://github.com/Jackson4Rocks/calypso-linux">→ Source: calypso-linux</a>
+<a href="https://github.com/Jackson4Rocks/calypso-linux">→ calypso-linux</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### GALAXIAN
+### PUBLIVORETUBE
 
-**ARCHIVED PROJECT.**
+**YouTube, reimagined for your TV.**
 
-An older Android ROM/device project that is no longer maintained or actively developed.
+An open-source Android TV client focused on remote-first navigation and a modern TV UI.
 
-<a href="https://github.com/Jackson4Rocks/crDroid-Galaxian">→ crDroid-Galaxian</a>
+<a href="https://github.com/Jackson4Rocks/PublivoreTube">→ PublivoreTube</a>
 
 </td>
 <td width="50%" valign="top">
 
-### TAHOE
+### JACKSONTECH
 
-**CLOSED PROJECT.**
+**The umbrella.**
 
-A previous recovery/low-level development project that has been discontinued.
-
-<a href="https://github.com/Jackson4Rocks/tahoe-recovery">→ tahoe-recovery</a>
+The name I use across my systems, Linux, Android, and experimental software projects.
 
 </td>
 </tr>
@@ -97,75 +89,36 @@ A previous recovery/low-level development project that has been discontinued.
 
 ---
 
-## ◈ THE STACK
+## ◇ My stack
 
 <div align="center">
 
-<code>AOSP</code> · <code>Android</code> · <code>Linux</code> · <code>x86_64</code> · <code>Hyprland</code> · <code>Shell</code> · <code>Git</code> · <code>UEFI</code>
+`Linux` · `Android` · `AOSP` · `Kotlin` · `Jetpack Compose` · `Hyprland` · `Shell` · `Git` · `UEFI` · `x86_64`
 
 </div>
 
 ---
 
-## ◇ BUILD PHILOSOPHY
+## 👾 Pac-Man
 
-<pre>
-       SOURCE
-         │
-         ▼
-   ┌─────────────┐
-   │   EXPLORE   │
-   └──────┬──────┘
-          │
-          ▼
-   ┌─────────────┐
-   │   BUILD     │
-   └──────┬──────┘
-          │
-          ▼
-   ┌─────────────┐
-   │    BOOT     │
-   └──────┬──────┘
-          │
-          ▼
-   ┌─────────────┐
-   │    TUNE     │
-   └──────┬──────┘
-          │
-          └──────────────► REPEAT
-</pre>
+My contribution graph, because a boring contribution graph wasn't enough.
 
-I like projects where the layers are visible, the tooling is reproducible, and the machine stays understandable.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackson4Rocks/Jackson4Rocks/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jackson4Rocks/Jackson4Rocks/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jackson4Rocks/Jackson4Rocks/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 ---
-
-## ⟡ CURRENT MISSION
-
-| System | Mission | State |
-|---|---|---|
-| **CathodeOS** | Android 16 → x86_64 PC OS | BRING-UP |
-| **Calypso Linux** | Arch-based desktop distribution | ACTIVE |
-| **Galaxian** | Archived Android ROM project | ARCHIVED |
-| **Tahoe** | Closed recovery project | CLOSED |
-
----
-
-## JACKSONTECH
-
-**JacksonTech** is the umbrella identity used across my software and operating-system projects.
-
-The work is maintained by **Leon Sony**.
 
 <div align="center">
 
-<a href="https://github.com/Jackson4Rocks/CathodeROM"><b>CathodeOS</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Jackson4Rocks/calypso-linux"><b>Calypso Linux</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Jackson4Rocks?tab=repositories"><b>All repositories</b></a>
+### JacksonTech
 
-<br><br>
+**Linux • Android • Systems • Experiments**
 
-<sub>© 2026 JacksonTech · Maintained by Leon Sony</sub>
+<br>
+
+<sub>Maintained by Leon Sony · 2026</sub>
 
 </div>
