@@ -10,7 +10,7 @@
              L E O N   S O N Y
 </pre>
 
-**Linux · Android · Systems · Open Source**
+**🐧 Linux · 🤖 Android · ⚙️ Systems · 🔓 Open Source**
 
 > I build operating systems, ROMs, desktop environments, and software that makes me curious enough to keep digging.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## `whoami`
+## 🧑‍💻 `whoami`
 
 I'm **Leon Sony**, a developer from India working across Linux and Android.
 
@@ -42,29 +42,29 @@ My usual workflow looks like:
      ↓
     fix it
      ↓
-    ship
+    ship 🚀
 
 I enjoy the parts of development where you can actually see the machine underneath the software.
 
 ---
 
-## `./currently-building`
+## 🚧 `./currently-building`
 
-### CathodeOS
+### 🖥️ CathodeOS
 **Android for PCs**
 
 An AOSP-based Android project aimed at generic x86_64 computers.
 
 → [GitHub](https://github.com/Jackson4Rocks/CathodeROM)
 
-### Calypso Linux
+### 🐧 Calypso Linux
 **Linux with a pulse**
 
 An Arch-based Linux distribution focused on a polished desktop workflow.
 
 → [GitHub](https://github.com/Jackson4Rocks/calypso-linux)
 
-### PublivoreTube
+### 📺 PublivoreTube
 **YouTube, reimagined for your TV**
 
 An open-source Android TV client with remote-first navigation, a TV-focused UI, YouTube metadata, and a native playback layer under development.
@@ -73,13 +73,13 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 
 ---
 
-## `~/toolbox`
+## 🧰 `~/toolbox`
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### Systems
+### 🖥️ Systems
 
 <code>Linux</code>  
 <code>Android</code>  
@@ -90,7 +90,7 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 </td>
 <td valign="top" width="33%">
 
-### Languages
+### 💻 Languages
 
 <code>Kotlin</code>  
 <code>Java</code>  
@@ -102,7 +102,7 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 </td>
 <td valign="top" width="33%">
 
-### Frameworks / Tools
+### 🔧 Frameworks / Tools
 
 <code>Jetpack Compose</code>  
 <code>Gradle</code>  
@@ -117,26 +117,26 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 
 ---
 
-## `focus`
+## 🎯 `focus`
 
-**Android**  
+**🤖 Android**  
 → ROMs, AOSP, device work, Android TV
 
-**Linux**  
+**🐧 Linux**  
 → Arch-based systems, desktop UX, Hyprland
 
-**Systems**  
+**⚙️ Systems**  
 → build pipelines, boot flows, low-level tooling
 
-**Apps**  
+**📺 Apps**  
 → Compose, TV interfaces, Media3
 
-**Open Source**  
+**🌐 Open Source**  
 → public projects, experimentation, reproducible builds
 
 ---
 
-## `projects`
+## 📦 `projects`
 
 | Project | Description |
 |---|---|
@@ -148,17 +148,7 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 
 ---
 
-## `stats.exe`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jackson4Rocks&show_icons=true&hide_border=true&theme=transparent&title_color=FF4F7B&icon_color=FF4F7B&text_color=8F95A3" alt="GitHub stats" />
-
-</div>
-
----
-
-## `pacman --profile`
+## 👾 `pacman --profile`
 
 <div align="center">
 
@@ -174,7 +164,7 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 
 <div align="center">
 
-**Build things. Break things. Learn why they broke.**
+**✨ Build things. Break things. Learn why they broke.**
 
 <br>
 
