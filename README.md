@@ -58,6 +58,13 @@ An Arch-based Linux distribution focused on a polished desktop workflow.
 
 → [GitHub](https://github.com/Jackson4Rocks/calypso-linux)
 
+### ⌚ Cipher Launcher
+**A tiny Android launcher for watches and small devices**
+
+A watch-oriented Android launcher with separate Watch Mode and Launcher Mode, plus features for compact screens like step counting, battery information, AMOLED options, and PIN-based access.
+
+→ [GitHub](https://github.com/Jackson4Rocks/Cipher-Launcher)
+
 ### 📺 PublivoreTube
 **YouTube, reimagined for your TV**
 
@@ -136,6 +143,7 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 |---|---|
 | **[CathodeOS](https://github.com/Jackson4Rocks/CathodeROM)** | AOSP-based Android for x86_64 PCs |
 | **[Calypso Linux](https://github.com/Jackson4Rocks/calypso-linux)** | Arch-based desktop Linux distribution |
+| **[Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher)** | Watch-oriented Android launcher for small Android devices |
 | **[PublivoreTube](https://github.com/Jackson4Rocks/PublivoreTube)** | Android TV YouTube client |
 | **[crDroid-Galaxian](https://github.com/Jackson4Rocks/crDroid-Galaxian)** | Earlier Android ROM/device project |
 | **[tahoe-recovery](https://github.com/Jackson4Rocks/tahoe-recovery)** | Earlier recovery / low-level experiment |
