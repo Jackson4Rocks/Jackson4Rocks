@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 `whoami`
 
-I'm **Leon Sony**, a developer from India working across Linux and Android.
+I'm **Leon Sony**, a **Linux, Android & low-level developer** from India.
 
 Most of what I build sits somewhere between **system software, operating systems, ROM development, desktop Linux, and experimental apps**.
 
