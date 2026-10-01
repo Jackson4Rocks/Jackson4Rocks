@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Leon Sony!
 
-**🐧 Linux · 🤖 Android · ⚙️ Systems · 🔓 Open Source**
+**🐧 Linux · 🤖 Android  · 🔓 Open Source**
 
 > I build operating systems, ROMs, desktop environments, and software that makes me curious enough to keep digging.
 
