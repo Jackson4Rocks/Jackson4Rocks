@@ -4,7 +4,7 @@
 
 **🐧 Linux · 🤖 Android  · 🔓 Open Source**
 
-> I build operating systems, ROMs, desktop environments, and software that makes me curious enough to keep digging.
+> I build operating systems and software that makes me curious enough to keep digging.
 
 [![GitHub](https://img.shields.io/badge/@Jackson4Rocks-111318?style=flat-square&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
 [![Linux](https://img.shields.io/badge/Linux-111318?style=flat-square&logo=linux&logoColor=FCC624)](https://kernel.org/)
