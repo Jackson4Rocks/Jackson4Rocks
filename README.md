@@ -170,6 +170,6 @@ An open-source Android TV client with remote-first navigation, a TV-focused UI, 
 
 <br>
 
-<sub>JacksonTech · Maintained by Leon Sony · 2026</sub>
+<sub>Maintained by Leon Sony · 2026</sub>
 
 </div>
