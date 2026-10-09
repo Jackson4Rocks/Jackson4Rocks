@@ -12,8 +12,6 @@
 [![Android](https://img.shields.io/badge/Android-111318?style=flat-square&logo=android&logoColor=3DDC84)](https://source.android.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonsonyk@gmail.com)
 
-🌐 **[jackson4rocks.github.io](https://jackson4rocks.github.io/)**
-
 </div>
 
 ---
@@ -45,13 +43,6 @@ My usual workflow looks like:
 ---
 
 ## 🚧 `./currently-building`
-
-### 🎧 [AuralisTune](https://github.com/Jackson4Rocks/AuralisTune)
-**An open-source Android music client · Still in development**
-
-A modern music app focused on a polished Material 3 experience, music discovery, playback, library features, and a backend that can evolve as services change.
-
-🛠️ `STATUS: ACTIVE DEVELOPMENT`
 
 ### ⌚ [Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher)
 **A tiny Android launcher for watches and small devices**
@@ -129,7 +120,6 @@ App protection with PIN and biometric authentication, built around a lightweight
 
 | Project | Description |
 |---|---|
-| **[AuralisTune](https://github.com/Jackson4Rocks/AuralisTune)** | Android music client — **still in development** |
 | **[Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher)** | Watch-oriented launcher for small Android devices |
 | **[GlyphOS](https://github.com/Jackson4Rocks/GlyphOS)** | Arch-based Linux desktop built on KDE Plasma |
 | **[Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player)** | Local-first Android music player |
