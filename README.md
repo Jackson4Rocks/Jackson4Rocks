@@ -165,6 +165,6 @@ Got an idea, found a bug, or want to talk about a project?
 
 <div align="center">
 
-<sub>JacksonTech · Maintained by Leon Sony · 2026</sub>
+<sub>Maintained by Leon Sony · 2026</sub>
 
 </div>
