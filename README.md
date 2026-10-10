@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Leon Sony!
 
-**🐧 Linux · 🤖 Android · ⚙️ Systems · 🔓 Open Source**
+**🐧 Linux · 🤖 Android · 🔓 Open Source**
 
 > I build apps, Linux experiences, and open-source software that makes me curious enough to keep digging.
 
@@ -107,9 +107,6 @@ App protection with PIN and biometric authentication, built around a lightweight
 
 **📺 Android TV**  
 → Remote-first apps and big-screen experiences
-
-**⚙️ Systems**  
-→ Build pipelines, low-level tools, and understanding the layers underneath
 
 **🌐 Open source**  
 → Building in public, experimenting, and learning by shipping
