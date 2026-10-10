@@ -75,9 +75,9 @@ App protection with PIN and biometric authentication, built around a lightweight
 ### 🖥️ Development
 
 - **Editor:** VS Code / Neovim
-- **Terminal:** Zsh + custom config
+- **Terminal:** fish + custom config
 - **OS:** Linux (CachyOS)
-- **Shell:** Bash / Zsh
+- **Shell:** Bash / fish
 - **Version Control:** Git + GitHub
 
 </td>
