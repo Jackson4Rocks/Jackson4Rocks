@@ -38,12 +38,6 @@ A Nothing-inspired desktop OS built around Arch Linux, Wayland, and a custom she
 - Live system values come from system adapters; the shell also includes an IPC bus and the <code>glyphctl</code> CLI.
 - The independent <code>glyphwm</code> compositor is in development. Window-policy and workspace prototypes exist, while full Smithay surface/runtime integration and a bootable ISO remain future milestones.
 
-### 📚 [Evexia](https://github.com/Jackson4Rocks/Evexia) · Android · v1.0 milestone
-
-A calmer place to organise classes, tasks, notes, flashcards, files, and study tools.
-
-Evexia includes timetable planning, reminders, document and PDF workflows, widgets, and optional AI powered through Puter. Core planning content stays on-device; using AI sends submitted prompts and relevant context to the online service. The project has v1.0 release notes, and downloadable builds belong on the [Releases page](https://github.com/Jackson4Rocks/Evexia/releases).
-
 ### 💿 [AvenueBoot](https://github.com/Jackson4Rocks/AvenueBoot) · Linux utility
 
 An early-stage ISO-flashing project aimed at making bootable install media — especially Windows installers from Linux — less of a headache.
@@ -58,7 +52,6 @@ A minimize-and-restore workflow for Hyprland with a searchable window picker, a 
 
 | Project | What it is |
 |---|---|
-| 🐧 [Calypso Linux](https://github.com/Jackson4Rocks/calypso-linux) | An Arch-based Linux project with KDE Plasma as the main desktop and Hyprland as an optional profile. ISO/release publishing is still evolving. |
 | 💻 [CathodeOS](https://github.com/Jackson4Rocks/CathodeROM) | An Android 16-based x86_64 PC/laptop project in bring-up, with generic and LineageOS-based PC paths. Hardware support is still in progress. |
 | ⏰ [Aevum Clock](https://github.com/Jackson4Rocks/Aevum-Clock) | An Android clock app with alarms, world clock, timers, stopwatch, widgets, and a true-black AMOLED theme. |
 | ✨ [OneGlyph](https://github.com/Jackson4Rocks/OneGlyph) | A utility for the single Glyph light on the Nothing Phone (3a) Lite running Nothing OS 2.0. |
@@ -82,7 +75,7 @@ A minimize-and-restore workflow for Hyprland with a searchable window picker, a 
 
 - **Editor:** VS Code / Neovim
 - **Terminal:** Fish + custom config
-- **OS:** CachyOS Linux
+- **OS:** Arch Linux
 - **Shell:** Fish / Bash
 - **Version control:** Git + GitHub
 
@@ -104,11 +97,10 @@ A minimize-and-restore workflow for Hyprland with a searchable window picker, a 
 ## 🔭 `up-next`
 
 - **GlyphOS:** keep moving from a working shell toward a real independent Wayland compositor and eventual live ISO/installer.
-- **Calypso Linux:** keep refining the desktop experience and release pipeline.
 - **CathodeOS:** continue x86_64 PC bring-up and hardware compatibility work.
 - **Android:** keep iterating on privacy tools, small-screen experiences, and Android TV apps.
 
-These are works in progress, not promises of a release date. Build status and downloads belong in each project's own repository.
+Evexia is a smaller side project rather than a main focus. These are works in progress, not promises of a release date. Build status and downloads belong in each project's own repository.
 
 ---
 
