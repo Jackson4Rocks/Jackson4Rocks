@@ -1,22 +1,22 @@
 <div align="center">
 
-# Leon Sony
+# 👋 Hi, I'm Leon Sony!
 
-**Linux · Android · Systems · Open Source**
+**🐧 Linux · 🤖 Android · 🔓 Open Source**
 
-I build apps, desktop experiences, and system-level projects — from small-screen Android to Linux desktops and experiments that get a little too close to the metal.
+> I build apps, Linux experiences, and open-source software that makes me curious enough to keep digging.
 
-[![Website](https://img.shields.io/badge/Portfolio-AMOLED%20Black-8FF5C7?style=flat-square&logo=googlechrome&logoColor=000)](https://jackson4rocks.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Jackson4Rocks-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://kernel.org/)
-[![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=8FF5C7)](https://source.android.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=gmail&logoColor=8FF5C7)](mailto:leonsonyk@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit%20my%20site-242424?style=flat-square&logo=googlechrome&logoColor=white)](https://jackson4rocks.github.io/)
+[![GitHub](https://img.shields.io/badge/@Jackson4Rocks-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
+[![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)](https://kernel.org/)
+[![Android](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android&logoColor=white)](https://source.android.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-242424?style=flat-square&logo=gmail&logoColor=white)](mailto:leonsonyk@gmail.com)
 
 </div>
 
 ---
 
-## whoami
+## 🧑‍💻 `whoami`
 
 I'm **Leon Sony**, a Linux and Android developer with a soft spot for the layers underneath the interface. I work on Android apps, Android TV experiences, Linux desktop projects, and system experiments — trying to make software feel considered on the surface and make sense underneath.
 
@@ -28,7 +28,7 @@ idea → code → build → test → break
                     ship ← fix ← learn
 ~~~
 
-## Current focus
+## 🚧 `./currently-building`
 
 ### 🧩 [GlyphOS](https://github.com/Jackson4Rocks/GlyphOS) · Linux desktop
 
@@ -54,25 +54,25 @@ A minimize-and-restore workflow for Hyprland with a searchable window picker, a 
 
 ---
 
-## Projects I keep building
+## 📦 `projects`
 
 | Project | What it is |
 |---|---|
-| [Calypso Linux](https://github.com/Jackson4Rocks/calypso-linux) | An Arch-based Linux project with KDE Plasma as the main desktop and Hyprland as an optional profile. ISO/release publishing is still evolving. |
-| [CathodeOS](https://github.com/Jackson4Rocks/CathodeROM) | An Android 16-based x86_64 PC/laptop project in bring-up, with generic and LineageOS-based PC paths. Hardware support is still in progress. |
-| [Aevum Clock](https://github.com/Jackson4Rocks/Aevum-Clock) | An Android clock app with alarms, world clock, timers, stopwatch, widgets, and a true-black AMOLED theme. |
-| [OneGlyph](https://github.com/Jackson4Rocks/OneGlyph) | A utility for the single Glyph light on the Nothing Phone (3a) Lite running Nothing OS 2.0. |
-| [Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher) | A compact launcher for watches and small Android devices, with separate Watch and Launcher modes protected by different PINs. |
-| [Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player) | An AMOLED-friendly local music player. The current project is UI-focused, with MediaStore scanning and playback-engine work on the roadmap. |
-| [AppGuard](https://github.com/Jackson4Rocks/AppGuard) | An Android app locker using PIN protection and supported biometric/device authentication. |
-| [CalculatorVault](https://github.com/Jackson4Rocks/CalculatorVault) | A calculator-style private space with AES-256-GCM file encryption and an Android Keystore-protected key. |
-| [PublivoreTube](https://github.com/Jackson4Rocks/PublivoreTube) | A remote-first YouTube client for Android TV, designed for large screens and D-pad navigation. |
-| [Nord 2T device tree](https://github.com/Jackson4Rocks/android_device_oneplus_karen) | LineageOS 23.2 device-tree and bring-up work for the OnePlus Nord 2T. |
-| [Galaxian / AxionOS device work](https://github.com/Jackson4Rocks/device_nothing_Galaxian_AxionOS) | Public device-side Android ROM work for the Nothing Phone (3a) Lite. |
+| 🐧 [Calypso Linux](https://github.com/Jackson4Rocks/calypso-linux) | An Arch-based Linux project with KDE Plasma as the main desktop and Hyprland as an optional profile. ISO/release publishing is still evolving. |
+| 💻 [CathodeOS](https://github.com/Jackson4Rocks/CathodeROM) | An Android 16-based x86_64 PC/laptop project in bring-up, with generic and LineageOS-based PC paths. Hardware support is still in progress. |
+| ⏰ [Aevum Clock](https://github.com/Jackson4Rocks/Aevum-Clock) | An Android clock app with alarms, world clock, timers, stopwatch, widgets, and a true-black AMOLED theme. |
+| ✨ [OneGlyph](https://github.com/Jackson4Rocks/OneGlyph) | A utility for the single Glyph light on the Nothing Phone (3a) Lite running Nothing OS 2.0. |
+| ⌚ [Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher) | A compact launcher for watches and small Android devices, with separate Watch and Launcher modes protected by different PINs. |
+| 🎵 [Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player) | An AMOLED-friendly local music player. The current project is UI-focused, with MediaStore scanning and playback-engine work on the roadmap. |
+| 🛡️ [AppGuard](https://github.com/Jackson4Rocks/AppGuard) | An Android app locker using PIN protection and supported biometric/device authentication. |
+| 🔐 [CalculatorVault](https://github.com/Jackson4Rocks/CalculatorVault) | A calculator-style private space with AES-256-GCM file encryption and an Android Keystore-protected key. |
+| 📺 [PublivoreTube](https://github.com/Jackson4Rocks/PublivoreTube) | A remote-first YouTube client for Android TV, designed for large screens and D-pad navigation. |
+| 📱 [Nord 2T device tree](https://github.com/Jackson4Rocks/android_device_oneplus_karen) | LineageOS 23.2 device-tree and bring-up work for the OnePlus Nord 2T. |
+| 🧰 [Galaxian / AxionOS device work](https://github.com/Jackson4Rocks/device_nothing_Galaxian_AxionOS) | Public device-side Android ROM work for the Nothing Phone (3a) Lite. |
 
 ---
 
-## ~/toolbox
+## 🧰 `~/toolbox`
 
 <table>
 <tr>
@@ -101,7 +101,7 @@ A minimize-and-restore workflow for Hyprland with a searchable window picker, a 
 </tr>
 </table>
 
-## What's next
+## 🔭 `up-next`
 
 - **GlyphOS:** keep moving from a working shell toward a real independent Wayland compositor and eventual live ISO/installer.
 - **Calypso Linux:** keep refining the desktop experience and release pipeline.
@@ -112,7 +112,7 @@ These are works in progress, not promises of a release date. Build status and do
 
 ---
 
-## Contact
+## 📬 `contact`
 
 Want to talk about a project, report a bug, or share an idea?
 
@@ -129,7 +129,7 @@ Want to talk about a project, report a bug, or share an idea?
 
 ---
 
-## pacman --profile
+## 👾 `pacman --profile`
 
 <div align="center">
 
