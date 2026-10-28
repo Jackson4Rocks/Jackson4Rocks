@@ -1,144 +1,127 @@
 <div align="center">
 
-# 👋 Hi, I'm Leon Sony!
+# Leon Sony
 
-**🐧 Linux · 🤖 Android · 🔓 Open Source**
+**Linux · Android · Systems · Open Source**
 
-> I build apps, Linux experiences, and open-source software that makes me curious enough to keep digging.
+I build apps, desktop experiences, and system-level projects — from small-screen Android to Linux desktops and experiments that get a little too close to the metal.
 
-[![Website](https://img.shields.io/badge/Website-Visit%20my%20site-7C5CFC?style=flat-square&logo=googlechrome&logoColor=white)](https://jackson4rocks.github.io/)
-[![GitHub](https://img.shields.io/badge/@Jackson4Rocks-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
-[![Linux](https://img.shields.io/badge/Linux-111318?style=flat-square&logo=linux&logoColor=FCC624)](https://kernel.org/)
-[![Android](https://img.shields.io/badge/Android-111318?style=flat-square&logo=android&logoColor=3DDC84)](https://source.android.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonsonyk@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-AMOLED%20Black-8FF5C7?style=flat-square&logo=googlechrome&logoColor=000)](https://jackson4rocks.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jackson4Rocks-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://kernel.org/)
+[![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=8FF5C7)](https://source.android.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=gmail&logoColor=8FF5C7)](mailto:leonsonyk@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 `whoami`
+## whoami
 
-I'm **Leon Sony**, a **Linux & Android Systems Developer** from India 🇮🇳.
+I'm **Leon Sony**, a Linux and Android developer with a soft spot for the layers underneath the interface. I work on Android apps, Android TV experiences, Linux desktop projects, and system experiments — trying to make software feel considered on the surface and make sense underneath.
 
-I work across Android apps, Android TV experiences, Linux desktops, system experiments, and open-source projects. I enjoy working close to the platform — from how an interface feels to what makes it work underneath.
+My workflow is basically:
 
-My usual workflow looks like:
+~~~text
+idea → code → build → test → break
+                      ↑           ↓
+                    ship ← fix ← learn
+~~~
 
-    idea
-     ↓
-    code
-     ↓
-    build
-     ↓
-    test
-     ↓
-    break something
-     ↓
-    figure out why
-     ↓
-    fix it
-     ↓
-    ship 🚀
+## Current focus
 
----
+### 🧩 [GlyphOS](https://github.com/Jackson4Rocks/GlyphOS) · Linux desktop
 
-## 🚧 `./currently-building`
+A Nothing-inspired desktop OS built around Arch Linux, Wayland, and a custom shell — not just a theme or a web mock-up.
 
-### ⌚ [Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher)
-**A tiny Android launcher for watches and small devices**
+- The GTK4 desktop shell, panel, dock, command launcher, control center, notification daemon, and system OSD have working implementations.
+- Live system values come from system adapters; the shell also includes an IPC bus and the <code>glyphctl</code> CLI.
+- The independent <code>glyphwm</code> compositor is in development. Window-policy and workspace prototypes exist, while full Smithay surface/runtime integration and a bootable ISO remain future milestones.
 
-A watch-oriented launcher with separate Watch Mode and Launcher Mode, plus compact-screen features like step counting, battery information, AMOLED options, and PIN-based access.
+### 📚 [Evexia](https://github.com/Jackson4Rocks/Evexia) · Android · v1.0 milestone
 
-### 🐧 [GlyphOS](https://github.com/Jackson4Rocks/GlyphOS)
-**An independent Arch-based Linux desktop**
+A calmer place to organise classes, tasks, notes, flashcards, files, and study tools.
 
-A KDE Plasma-based desktop project exploring Wayland, system integration, and a minimal, expressive desktop experience.
+Evexia includes timetable planning, reminders, document and PDF workflows, widgets, and optional AI powered through Puter. Core planning content stays on-device; using AI sends submitted prompts and relevant context to the online service. The project has v1.0 release notes, and downloadable builds belong on the [Releases page](https://github.com/Jackson4Rocks/Evexia/releases).
 
-### 🎵 [Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player)
-**A local-first Android music player**
+### 💿 [AvenueBoot](https://github.com/Jackson4Rocks/AvenueBoot) · Linux utility
 
-An Android music player prototype focused on local music, expressive UI, and an AMOLED-friendly interface.
+An early-stage ISO-flashing project aimed at making bootable install media — especially Windows installers from Linux — less of a headache.
 
-### 🛡️ [AppGuard](https://github.com/Jackson4Rocks/AppGuard)
-**A modern Android app locker**
+### 🪟 [Miniland](https://github.com/Jackson4Rocks/miniland) · Hyprland utility
 
-App protection with PIN and biometric authentication, built around a lightweight Material 3 interface.
+A minimize-and-restore workflow for Hyprland with a searchable window picker, a shelf, and support for both legacy configuration syntax and the newer Lua-style configuration.
 
 ---
 
-## 🧰 `~/toolbox`
+## Projects I keep building
+
+| Project | What it is |
+|---|---|
+| [Calypso Linux](https://github.com/Jackson4Rocks/calypso-linux) | An Arch-based Linux project with KDE Plasma as the main desktop and Hyprland as an optional profile. ISO/release publishing is still evolving. |
+| [CathodeOS](https://github.com/Jackson4Rocks/CathodeROM) | An Android 16-based x86_64 PC/laptop project in bring-up, with generic and LineageOS-based PC paths. Hardware support is still in progress. |
+| [Aevum Clock](https://github.com/Jackson4Rocks/Aevum-Clock) | An Android clock app with alarms, world clock, timers, stopwatch, widgets, and a true-black AMOLED theme. |
+| [OneGlyph](https://github.com/Jackson4Rocks/OneGlyph) | A utility for the single Glyph light on the Nothing Phone (3a) Lite running Nothing OS 2.0. |
+| [Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher) | A compact launcher for watches and small Android devices, with separate Watch and Launcher modes protected by different PINs. |
+| [Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player) | An AMOLED-friendly local music player. The current project is UI-focused, with MediaStore scanning and playback-engine work on the roadmap. |
+| [AppGuard](https://github.com/Jackson4Rocks/AppGuard) | An Android app locker using PIN protection and supported biometric/device authentication. |
+| [CalculatorVault](https://github.com/Jackson4Rocks/CalculatorVault) | A calculator-style private space with AES-256-GCM file encryption and an Android Keystore-protected key. |
+| [PublivoreTube](https://github.com/Jackson4Rocks/PublivoreTube) | A remote-first YouTube client for Android TV, designed for large screens and D-pad navigation. |
+| [Nord 2T device tree](https://github.com/Jackson4Rocks/android_device_oneplus_karen) | LineageOS 23.2 device-tree and bring-up work for the OnePlus Nord 2T. |
+| [Galaxian / AxionOS device work](https://github.com/Jackson4Rocks/device_nothing_Galaxian_AxionOS) | Public device-side Android ROM work for the Nothing Phone (3a) Lite. |
+
+---
+
+## ~/toolbox
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🖥️ Development
+### Development
 
 - **Editor:** VS Code / Neovim
-- **Terminal:** fish + custom config
-- **OS:** Linux (CachyOS)
-- **Shell:** Bash / fish
-- **Version Control:** Git + GitHub
+- **Terminal:** Fish + custom config
+- **OS:** CachyOS Linux
+- **Shell:** Fish / Bash
+- **Version control:** Git + GitHub
 
 </td>
 <td valign="top" width="50%">
 
-### 💻 Technologies
+### Technologies
 
 <code>Kotlin</code> <code>Java</code> <code>Jetpack Compose</code>  
 <code>Android</code> <code>Android TV</code> <code>AOSP</code>  
-<code>Linux</code> <code>Wayland</code> <code>Hyprland</code>  
-<code>C</code> <code>C++</code> <code>Python</code> <code>Shell</code>  
+<code>Linux</code> <code>Arch</code> <code>Wayland</code> <code>Hyprland</code>  
+<code>Rust</code> <code>C</code> <code>C++</code> <code>Python</code> <code>Shell</code>  
 <code>Gradle</code> <code>Git</code> <code>CMake</code>
 
 </td>
 </tr>
 </table>
 
----
+## What's next
 
-## 🎯 `focus`
+- **GlyphOS:** keep moving from a working shell toward a real independent Wayland compositor and eventual live ISO/installer.
+- **Calypso Linux:** keep refining the desktop experience and release pipeline.
+- **CathodeOS:** continue x86_64 PC bring-up and hardware compatibility work.
+- **Android:** keep iterating on privacy tools, small-screen experiences, and Android TV apps.
 
-**🤖 Android development**  
-→ Apps, platform APIs, interfaces, and architecture
-
-**🐧 Linux**  
-→ Desktop experiences, distro projects, Wayland, and system tooling
-
-**📺 Android TV**  
-→ Remote-first apps and big-screen experiences
-
-**🌐 Open source**  
-→ Building in public, experimenting, and learning by shipping
+These are works in progress, not promises of a release date. Build status and downloads belong in each project's own repository.
 
 ---
 
-## 📦 `projects`
+## Contact
 
-| Project | Description |
-|---|---|
-| **[Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher)** | Watch-oriented launcher for small Android devices |
-| **[GlyphOS](https://github.com/Jackson4Rocks/GlyphOS)** | Arch-based Linux desktop built on KDE Plasma |
-| **[Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player)** | Local-first Android music player |
-| **[AppGuard](https://github.com/Jackson4Rocks/AppGuard)** | Android app locker with PIN and biometric protection |
-| **[CalculatorVault](https://github.com/Jackson4Rocks/CalculatorVault)** | Calculator-style Android privacy vault |
-| **[PublivoreTube](https://github.com/Jackson4Rocks/PublivoreTube)** | Remote-first Android TV client |
-| **[CathodeOS](https://github.com/Jackson4Rocks/CathodeROM)** | Experimental AOSP-based Android for x86_64 PCs |
-| **[Calypso Linux](https://github.com/Jackson4Rocks/calypso-linux)** | Arch-based Linux distribution and desktop experience |
+Want to talk about a project, report a bug, or share an idea?
 
----
-
-## 📬 `contact`
+- **Email:** [leonsonyk@gmail.com](mailto:leonsonyk@gmail.com)
+- **GitHub:** [@Jackson4Rocks](https://github.com/Jackson4Rocks)
 
 <div align="center">
 
-Got an idea, found a bug, or want to talk about a project?
-
-[![Website](https://img.shields.io/badge/Personal%20Website-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jackson4rocks.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jackson4Rocks)
-[![Email](https://img.shields.io/badge/Email-me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonsonyk@gmail.com)
-
-### Take a look at my monstrosities! 😭
+### Take a look at my monstrosities!
 
 *Build things. Break things. Learn why they broke.*
 
@@ -146,7 +129,7 @@ Got an idea, found a bug, or want to talk about a project?
 
 ---
 
-## 👾 `pacman --profile`
+## pacman --profile
 
 <div align="center">
 
@@ -161,7 +144,5 @@ Got an idea, found a bug, or want to talk about a project?
 ---
 
 <div align="center">
-
 <sub>Maintained by Leon Sony · 2026</sub>
-
 </div>
