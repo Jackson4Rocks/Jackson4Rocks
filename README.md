@@ -38,13 +38,9 @@ A Nothing-inspired desktop OS built around Arch Linux, Wayland, and a custom she
 - Live system values come from system adapters; the shell also includes an IPC bus and the <code>glyphctl</code> CLI.
 - The independent <code>glyphwm</code> compositor is in development. Window-policy and workspace prototypes exist, while full Smithay surface/runtime integration and a bootable ISO remain future milestones.
 
-### 💿 [AvenueBoot](https://github.com/Jackson4Rocks/AvenueBoot) · Linux utility
+### ✨ [OneGlyph](https://github.com/Jackson4Rocks/OneGlyph) · Nothing Phone (3a) Lite
 
-An early-stage ISO-flashing project aimed at making bootable install media — especially Windows installers from Linux — less of a headache.
-
-### 🪟 [Miniland](https://github.com/Jackson4Rocks/miniland) · Hyprland utility
-
-A minimize-and-restore workflow for Hyprland with a searchable window picker, a shelf, and support for both legacy configuration syntax and the newer Lua-style configuration.
+OneGlyph puts the phone's single Glyph dot to work with music reactions, notification cues, Morse code, timers, metronome, breathing guidance, camera countdowns, and charging feedback. Built for the Nothing Phone (3a) Lite running Nothing OS 2.0.
 
 ---
 
@@ -58,10 +54,11 @@ A minimize-and-restore workflow for Hyprland with a searchable window picker, a 
 | ⌚ [Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher) | A compact launcher for watches and small Android devices, with separate Watch and Launcher modes protected by different PINs. |
 | 🎵 [Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player) | An AMOLED-friendly local music player. The current project is UI-focused, with MediaStore scanning and playback-engine work on the roadmap. |
 | 🛡️ [AppGuard](https://github.com/Jackson4Rocks/AppGuard) | An Android app locker using PIN protection and supported biometric/device authentication. |
-| 🔐 [CalculatorVault](https://github.com/Jackson4Rocks/CalculatorVault) | A calculator-style private space with AES-256-GCM file encryption and an Android Keystore-protected key. |
 | 📺 [PublivoreTube](https://github.com/Jackson4Rocks/PublivoreTube) | A remote-first YouTube client for Android TV, designed for large screens and D-pad navigation. |
 | 📱 [Nord 2T device tree](https://github.com/Jackson4Rocks/android_device_oneplus_karen) | LineageOS 23.2 device-tree and bring-up work for the OnePlus Nord 2T. |
 | 🧰 [Galaxian / AxionOS device work](https://github.com/Jackson4Rocks/device_nothing_Galaxian_AxionOS) | Public device-side Android ROM work for the Nothing Phone (3a) Lite. |
+| 💿 [AvenueBoot](https://github.com/Jackson4Rocks/AvenueBoot) | Completed Linux utility for writing bootable install media. |
+| 🪟 [Miniland](https://github.com/Jackson4Rocks/miniland) | Small Hyprland minimize/restore utility with a searchable window picker. |
 
 ---
 
@@ -98,7 +95,7 @@ A minimize-and-restore workflow for Hyprland with a searchable window picker, a 
 
 - **GlyphOS:** keep moving from a working shell toward a real independent Wayland compositor and eventual live ISO/installer.
 - **CathodeOS:** continue x86_64 PC bring-up and hardware compatibility work.
-- **Android:** keep iterating on privacy tools, small-screen experiences, and Android TV apps.
+- **Android:** keep iterating on small-screen experiences, music playback, and Android TV apps.
 
 Evexia is a smaller side project rather than a main focus. These are works in progress, not promises of a release date. Build status and downloads belong in each project's own repository.
 
