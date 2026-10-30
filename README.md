@@ -14,6 +14,12 @@
 
 </div>
 
+<div align="center">
+
+**📴 I'll be offline until March 2027.**
+
+</div>
+
 ---
 
 ## 🧑‍💻 `whoami`
