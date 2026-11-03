@@ -46,7 +46,7 @@ A Nothing-inspired desktop OS built around Arch Linux, Wayland, and a custom she
 
 ### ✨ [OneGlyph](https://github.com/Jackson4Rocks/OneGlyph) · Nothing Phone (3a) Lite
 
-OneGlyph puts the phone's single Glyph dot to work with music reactions, notification cues, Morse code, timers, metronome, breathing guidance, camera countdowns, and charging feedback. Built for the Nothing Phone (3a) Lite running Nothing OS 2.0.
+OneGlyph puts the phone's single Glyph dot to work with music reactions, notification cues, Morse code, timers, metronome, breathing guidance, camera countdowns, and charging feedback. Built for the Nothing Phone (3a) Lite running Nothing OS.
 
 ---
 
