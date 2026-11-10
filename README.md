@@ -14,12 +14,6 @@
 
 </div>
 
-<div align="center">
-
-**📴 I'll be offline until March 2027.**
-
-</div>
-
 ---
 
 ## 🧑‍💻 `whoami`
@@ -50,21 +44,31 @@ OneGlyph puts the phone's single Glyph dot to work with music reactions, notific
 
 ---
 
+## 🪟 `recent-release`
+
+### [Retro98](https://github.com/Jackson4Rocks/Retro98) · Android · v1.0
+
+A redux of LR-Soft's Windows 98 Simulator, bringing the familiar desktop experience to Android. Retro98 includes a Start menu and taskbar, movable and resizable windows, classic utilities, built-in games, a virtual filesystem, and desktop customization.
+
+[**Download Retro98 v1.0 APK**](https://github.com/Jackson4Rocks/Retro98/releases/download/Release/Retro98.v1.0.apk) · [Release notes](https://github.com/Jackson4Rocks/Retro98/releases/tag/Release)
+
+---
+
 ## 📦 `projects`
 
 | Project | What it is |
 |---|---|
 | 💻 [CathodeOS](https://github.com/Jackson4Rocks/CathodeROM) | An Android 16-based x86_64 PC/laptop project in bring-up, with generic and LineageOS-based PC paths. Hardware support is still in progress. |
+| 🪟 [Retro98](https://github.com/Jackson4Rocks/Retro98) | An Android desktop simulator inspired by the Windows 98 era, with classic apps, games, movable windows, and a published v1.0 APK. |
+| 🌑 [GlyphDotfiles](https://github.com/Jackson4Rocks/GlyphDotfiles) | A Nothing-inspired Arch Linux + Hyprland desktop setup with AMOLED Black and Pure White themes, Noctalia, Fish, Kitty, and a safer installer. |
+| 🍎 [Tahoe Recovery](https://github.com/Jackson4Rocks/tahoe-recovery) | A GitHub Actions workflow that extracts a macOS Tahoe recovery image from Apple's installer without hosting or redistributing Apple software. |
 | ⏰ [Aevum Clock](https://github.com/Jackson4Rocks/Aevum-Clock) | An Android clock app with alarms, world clock, timers, stopwatch, widgets, and a true-black AMOLED theme. |
 | ✨ [OneGlyph](https://github.com/Jackson4Rocks/OneGlyph) | A utility for the single Glyph light on the Nothing Phone (3a) Lite running Nothing OS 2.0. |
 | ⌚ [Cipher Launcher](https://github.com/Jackson4Rocks/Cipher-Launcher) | A compact launcher for watches and small Android devices, with separate Watch and Launcher modes protected by different PINs. |
 | 🎵 [Oryn Player](https://github.com/Jackson4Rocks/Oryn-Player) | An AMOLED-friendly local music player. The current project is UI-focused, with MediaStore scanning and playback-engine work on the roadmap. |
 | 🛡️ [AppGuard](https://github.com/Jackson4Rocks/AppGuard) | An Android app locker using PIN protection and supported biometric/device authentication. |
 | 📺 [PublivoreTube](https://github.com/Jackson4Rocks/PublivoreTube) | A remote-first YouTube client for Android TV, designed for large screens and D-pad navigation. |
-| 📱 [Nord 2T device tree](https://github.com/Jackson4Rocks/android_device_oneplus_karen) | LineageOS 23.2 device-tree and bring-up work for the OnePlus Nord 2T. |
-| 🧰 [Galaxian / AxionOS device work](https://github.com/Jackson4Rocks/device_nothing_Galaxian_AxionOS) | Public device-side Android ROM work for the Nothing Phone (3a) Lite. |
 | 💿 [AvenueBoot](https://github.com/Jackson4Rocks/AvenueBoot) | Completed Linux utility for writing bootable install media. |
-| 🪟 [Miniland](https://github.com/Jackson4Rocks/miniland) | Small Hyprland minimize/restore utility with a searchable window picker. |
 
 ---
 
@@ -76,7 +80,7 @@ OneGlyph puts the phone's single Glyph dot to work with music reactions, notific
 
 ### Development
 
-- **Editor:** VS Code / Neovim
+- **Editor:** Visual Studio Code (primary) / Neovim (side editor)
 - **Terminal:** Fish + custom config
 - **OS:** Arch Linux
 - **Shell:** Fish / Bash
@@ -109,7 +113,7 @@ Evexia is a smaller side project rather than a main focus. These are works in pr
 
 ## 📬 `contact`
 
-Want to talk about a project, report a bug, or share an idea?
+Want to talk about a project, report a bug, or share an idea? Send me an email or open an issue on the relevant repository.
 
 - **Email:** [leonsonyk@gmail.com](mailto:leonsonyk@gmail.com)
 - **GitHub:** [@Jackson4Rocks](https://github.com/Jackson4Rocks)
